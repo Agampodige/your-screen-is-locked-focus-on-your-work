@@ -13,7 +13,6 @@ Countdown Timer: Displays a live countdown of the remaining lock duration.
 
 Anti-Close Attempts: Attempts to block common window closing methods like Alt+F4, Esc, Ctrl+W, and the window's close button.
 
-Windows Key Disabler (Optional): An accompanying AutoHotkey script can disable the Windows key while the locker is active, further reducing distractions.
 
 Customizable Duration: Easily set the desired lock duration in minutes.
 📄 License
